@@ -1,12 +1,12 @@
-# isometric tiles games
-> Snippets and function useful for 2D game development for isometric tiles
+# Isometric Tiles Games
+> Löve2D Snippets and functions for 2D game development with isometric tiles
 
 ## Introduction
 
 This repository contains code to help with 2D game development with isometric
 tiles. 
 
-`/lib` contains modules than can simply be used.
+`/lib` contains modules than can simply be used. 
 
 ## License
 
